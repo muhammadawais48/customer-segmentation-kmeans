@@ -1,0 +1,10 @@
+{
+  "customers": 240,
+  "clusters": 3,
+  "cluster_sizes": {
+    "0": 79,
+    "1": 83,
+    "2": 78
+  },
+  "inertia": 133.831
+}
